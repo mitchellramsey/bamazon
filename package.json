@@ -1,0 +1,27 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "A MySQL app that simulates the process of store inventory through customer purchases and store management.",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "colors": "^1.2.0",
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0",
+    "validator": "^9.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mramsey1992/bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mramsey1992/bamazon/issues"
+  },
+  "homepage": "https://github.com/mramsey1992/bamazon#readme"
+}
